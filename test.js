@@ -1,1 +1,1 @@
-return "Test File"
+console.log("Test File")
